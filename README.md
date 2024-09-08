@@ -1,4 +1,4 @@
-![t-20](https://github.com/user-attachments/assets/c1117183-b275-4840-8a3c-953a4aaccafe)
+
 # T-20 Cricket Match Analysis
 
 This project utilizes data from the 2024 IPL season, gathered through the Cricbuzz API. The data is meticulously cleaned, transformed, and loaded into Power BI for comprehensive analysis. Various measures and visualizations are created to provide detailed statistics for each match. Additionally, images of team captains and logos, along with other relevant visuals, are incorporated to enhance the dashboard’s appeal and usability. This dashboard is designed to offer valuable insights for cricket enthusiasts, broadcasters, and teams, aiding in performance analysis, strategic planning, and a deeper understanding of the game.
